@@ -6,7 +6,7 @@ body {
   border: 1px;
   background-repeat: no-repeat;
   background-position: fixed;
-  background-color: #e50914;
+  background-color: black;
   opacity: 0.9;
   font-family: "Poppins", sans-serif;
   font-size: 15px;
@@ -34,6 +34,7 @@ textarea {
 
 h1 {
   font-family: "Zen Tokyo Zoo", cursive;
+  color: #940001;
   font-size: 52px;
 }
 
@@ -71,7 +72,7 @@ h1 {
   box-shadow: 0px 10px 13px -7px #000000,
     inset 5px 5px 15px 5px rgba(213, 199, 198, 0.04);
   padding: 15px 30px;
-  background-color: #fd2c30;
+  background-color: black;
 }
 
 .input-radio,
@@ -80,7 +81,6 @@ h1 {
   margin-right: 0.625rem;
   min-height: 1.25rem;
   min-width: 1.25rem;
-  margin-top: 1rem;
 }
 
 .input-textarea {
@@ -93,7 +93,7 @@ h1 {
   display: block;
   width: 100%;
   padding: 0.75rem;
-  background: black;
+  background: #940001;
   color: inherit;
   border-radius: 5px;
   cursor: pointer;
